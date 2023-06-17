@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clients_inf xsi:noNamespaceSchemaLocation="multi-pass.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <type>Multi_pass</type> 
+        <passport>
+            <first_name>Leeloo</first_name>
+            <surname>Dallas</surname>
+            <dob>27.06.1996</dob>
+            <sex>Female</sex>
+            <born>NY USA</born>
+            <id>777-777</id>
+        </passport>
+        <info>
+            <language>English</language>
+            <eyes>Blue</eyes>
+            <hair>Orange</hair>
+            <husband>Corban Dallas</husband>
+        </info>
+</clients_inf>
+
+

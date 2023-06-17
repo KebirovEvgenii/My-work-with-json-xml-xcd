@@ -1,0 +1,89 @@
+{"clients_inf":
+{
+  "type":"Client",
+  "pdata": {
+	  "first_name":"John",
+	  "surname":"Wick",
+	  "contacts": {
+		  "phone":"88005553535",
+		  "e-mail":"baba-yaga@gmail.com",
+		  "skype":"John Wick"
+	  },
+	  "documents": {
+		  "document": [
+		  {
+			  "document_type": "ID card",
+			  "series":"1312",
+			  "number":"11223344",
+			  "issued_by":"LA",
+			  "issue_date":"06.06.2012",
+			  "division_code":"123-324",
+			  "first_name":"John",
+			  "surname":"Wick",
+			  "birth_date":"22.02.1998",
+			  "gender":"male",
+			  "birth_place":"LA",
+			  "registration":"LA 2-21-23",
+		  },
+		  {
+			  "document_type":"Visa",
+			  "number":"12122323"
+		  },
+		  {
+			  "document_type":"Driver ID",
+			  "number":"12212332",
+			  "full_name":"John Wick",
+			  "birth_date":"06.06.1980",
+			  "birth_place":"LA",
+			  "gender":"male"
+		  },
+		  {
+			  "document_type":"Card",
+			  "number":"12344321",
+			  "issue_date":"05.05.2020",
+			  "full_name":"John Wick",
+			  "gender":"male",
+			  "birth_date":"06.06.1980",
+			  "birth_place":"LA"
+		  },
+		  {
+			  "document_type":"Pasport",
+			  "first_name":"John",
+			  "surname":"Wick",
+			  "birth_date":"06.06.1980",
+			  "birth_place":"LA",
+			  "issue_date":"22.02.2019",
+			  "expiry_date":"22.02.2029",
+			  "issued_by":"LA departament",
+			  "series":"1122",
+			  "number":"43211234",
+			  "region":"Ca"
+		  }
+		  ]
+	  }
+  },
+  "education": {
+     "university":"MGU",
+      "faculty":"History",
+	  "department":"Inetrnational",
+	  "start_year":"2016",
+	  "end_year":"2020"
+	 },
+  "job_experience": {
+	  "company":"Army",
+	  "position":"soldiar",
+	  "start_date":"01.02.2018",
+	  "end_date":"14.02.2019"
+  },
+}
+	  
+		  
+	
+		  
+			  
+			  
+			 
+			  
+		  
+			  
+  

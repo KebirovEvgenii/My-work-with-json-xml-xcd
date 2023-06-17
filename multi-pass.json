@@ -1,0 +1,22 @@
+{"clients_inf":
+    {
+        "type":"Multi_pass",
+        "passport": {
+            "first_name":"Lilloo",
+            "surname":"Dallas",
+            "dob":"27.06.1996",
+            "sex":"Female",
+            "born":"NY USA",
+            "id":"777-777"
+        },
+        "info":{
+            "language":"English",
+            "eyes":"Blue",
+            "hair":"Orange",
+            "husband":"Corban Dallas",
+
+        }
+
+
+    }
+}

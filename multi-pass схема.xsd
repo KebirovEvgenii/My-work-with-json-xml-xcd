@@ -1,0 +1,27 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="clients_inf">
+        <xs:complexType>
+			<xs:sequence>
+			    <xs:element name="type" type="xs:string"/>
+				<xs:element name="passport">
+					<xs:complexType>
+					    <xs:sequence>
+						    <xs:element name="first_name" type="xs:string"/>
+						    <xs:element name="surname" type="xs:string"/>
+                            <xs:element name="dob" type="xs:string"/>
+                            <xs:element name="born" type="xs:string"/>
+                            <xs:element name="id" type="xs:date"/>
+				</xs:element>
+                <xs:element name="info">
+					<xs:complexType>
+					    <xs:sequence>
+						    <xs:element name="language" type="xs:string"/>
+						    <xs:element name="hair" type="xs:string"/>
+                            <xs:element name="eyes" type="xs:string"/>
+                            <xs:element name="husband" type="xs:string"/>
+				</xs:element>
+            </xs:element>
+		</xs:sequence>
+    </xs:complexType>
+  </xs:element>						
+</xs:schema>
